@@ -1,0 +1,110 @@
+body {
+	margin: 0px;
+	font-family: 'Roboto', serif;
+}
+#top {
+	width: 100%;
+	height: 120px;
+	background-color: black;
+}
+#logo {
+	margin-top: 30px;
+	max-width: 730px;
+  	width: 100%;
+}
+#left-triangle {
+	width: 0;
+  	height: 0;
+  	border-top: 110px solid black;
+  	border-right: 400px solid transparent;
+  	margin: 0px;
+  	position: absolute;
+}
+#splatter1 {
+	position: absolute;
+  	width: 190px;
+  	top: -140px;
+}
+#splatter2 {
+  position: relative;
+  width: 260px;
+  top: -160px;
+  float: right;
+}
+#right-triangle {
+	width: 0;
+	height: 0;
+	border-top: 100px solid black;
+  	border-left: 800px solid transparent;
+  	float: right;
+}
+#welcome {
+  	text-align: center;
+  	position: relative;
+  	top: -10px;
+}
+#info {
+	padding: 30px;
+	font-size: 18px;
+}
+#ACpic {
+	width: 100%;
+  	padding-left: 40px;
+}
+#left-triangle2 {
+	width: 0;
+  	height: 0;
+  	border-bottom: 100px solid black;
+  	border-right: 400px solid transparent;
+  	margin: 0px;
+  	position: relative;
+  	top: -30px;
+}
+#right-triangle2 {
+	width: 0;
+	height: 0;
+	border-bottom: 110px solid black;
+  	border-left: 800px solid transparent;
+  	float: right;
+  	position: relative;
+  	top: -140px;
+}
+.white {
+	color: white;
+}
+.green {
+	color: #C6ED2C;
+}
+.up {
+	position: relative;
+  	top: -80px;
+}
+.left {
+	left: 200px;
+}
+#background {
+	background-color: black;
+	width: 100%;
+	position: relative;
+  	top: -30px;
+}
+#background2 {
+	background-color: black;
+	width: 100%;
+	padding-bottom: 40px;
+}
+#companies {
+	position: relative;
+  	top: -20px;
+}
+.greenbar {
+	background-color: #C6ED2C;
+	width: 100%;
+	height: 10px;
+}
+.center-text {
+	text-align: center;
+}
+.grid-left {
+	margin-top: 40px;
+}
